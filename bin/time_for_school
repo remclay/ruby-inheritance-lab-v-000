@@ -26,3 +26,4 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 #jim.learn(some_knowledge)
 
 steve.learn(some_knowledge)
+puts steve.knowledge
