@@ -35,5 +35,5 @@ georgia.last_name = "Grace"
 
 georgia.learn(avi.teach)
 
-puts "Steve: #{steve.knowledge}."
-puts "Georgia: #{georgia.knowledge}."
+puts "Steve knows: #{steve.knowledge}."
+puts "Georgia knows: #{georgia.knowledge}."
