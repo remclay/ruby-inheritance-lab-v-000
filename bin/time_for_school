@@ -27,3 +27,7 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 steve.learn(avi.teach)
 puts steve.knowledge
+
+georgia = Student.new
+georgia.first_name = "Georgia"
+georgia.last_name = "Grace"
