@@ -31,3 +31,8 @@ puts steve.knowledge
 georgia = Student.new
 georgia.first_name = "Georgia"
 georgia.last_name = "Grace"
+
+georgia.learn(avi.teach)
+
+puts "Steve: #{steve.knowledge}."
+puts "Georgia: #{georgia.knowledge}."
